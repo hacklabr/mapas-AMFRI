@@ -7,3 +7,6 @@
 [submodule "plugins/MapasBlame"]
 	path = plugins/MapasBlame
 	url = https://github.com/mapasculturais/plugin-MapasBlame.git
+[submodule "plugins/Accessibility"]
+	path = plugins/Accessibility
+	url = https://github.com/mapasculturais/plugin-Accessibility.git
