@@ -10,3 +10,6 @@
 [submodule "plugins/Accessibility"]
 	path = plugins/Accessibility
 	url = https://github.com/mapasculturais/plugin-Accessibility.git
+[submodule "plugins/AdminLoginUser"]
+	path = plugins/AdminLoginUser
+	url = https://github.com/mapasculturais/plugin-AdminLoginAsUser.git
