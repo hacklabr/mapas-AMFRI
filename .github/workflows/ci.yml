@@ -20,7 +20,7 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: |
-            docker.io/hacklab/mapas-AMFRI
+            docker.io/hacklab/mapas-amfri
           tags: |
             type=ref,event=branch
             type=semver,pattern={{version}}
