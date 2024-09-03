@@ -3,6 +3,7 @@
 return [
     'plugins' => [
         'Analytics',
+        'SpamDetector',
         'AdminLoginAsUser',
         'MultipleLocalAuth' => [ 'namespace' => 'MultipleLocalAuth' ],
         'SamplePlugin' => ['namespace' => 'SamplePlugin'],

@@ -13,3 +13,6 @@
 [submodule "plugins/AdminLoginUser"]
 	path = plugins/AdminLoginUser
 	url = https://github.com/mapasculturais/plugin-AdminLoginAsUser.git
+[submodule "plugins/SpamDetector"]
+	path = plugins/SpamDetector
+	url = git@github.com:mapasculturais/plugin-SpamDetector.git
