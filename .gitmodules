@@ -16,3 +16,6 @@
 [submodule "plugins/SpamDetector"]
 	path = plugins/SpamDetector
 	url = https://github.com/mapasculturais/plugin-SpamDetector.git
+[submodule "plugins/Zammad"]
+	path = plugins/Zammad
+	url = https://github.com/mapasculturais/plugin-Zammad.git

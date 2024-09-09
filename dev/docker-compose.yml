@@ -23,6 +23,7 @@ services:
       - ../plugins/SamplePlugin:/var/www/src/plugins/SamplePlugin
       - ../themes/MapasAmfri:/var/www/src/themes/MapasAmfri
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
+      - ../plugins/Zammad:/var/www/src/plugins/Zammad
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10
