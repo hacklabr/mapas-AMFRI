@@ -10,12 +10,12 @@
 [submodule "plugins/Accessibility"]
 	path = plugins/Accessibility
 	url = https://github.com/mapasculturais/plugin-Accessibility.git
-[submodule "plugins/AdminLoginUser"]
-	path = plugins/AdminLoginUser
-	url = https://github.com/mapasculturais/plugin-AdminLoginAsUser.git
 [submodule "plugins/SpamDetector"]
 	path = plugins/SpamDetector
 	url = https://github.com/mapasculturais/plugin-SpamDetector.git
 [submodule "plugins/Zammad"]
 	path = plugins/Zammad
 	url = https://github.com/mapasculturais/plugin-Zammad.git
+[submodule "plugins/AdminLoginAsUser"]
+	path = plugins/AdminLoginAsUser
+	url = https://github.com/mapasculturais/plugin-AdminLoginAsUser.git
