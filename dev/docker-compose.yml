@@ -24,6 +24,7 @@ services:
       - ../themes/MapasAmfri:/var/www/src/themes/MapasAmfri
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
       - ../plugins/Zammad:/var/www/src/plugins/Zammad
+      - ../plugins/SpamDetector:/var/www/src/plugins/SpamDetector
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10
