@@ -7,8 +7,13 @@ return [
         'Zammad' => [
             'namespace' => 'Zammad',
             'config' => [
-                'url' => 'https://suporte.mapacultural.cim-amfri.sc.gov.br/assets/chat/chat-no-jquery.min.js',
                 'enabled' => true,
+                'url' => 'https://suporte.mapasculturais.com.br/assets/chat/chat-no-jquery.min.js',    
+                'background' => '#F66968',
+                'title' => 'Duvidas? Fale conosco',
+                'chatId' => 4,
+                'instacacao' => 'mapacultural.cim-amfri.sc.gov.br',
+                'estado' => 'Santa Catarina'
             ]
         ],
         'AdminLoginAsUser',
