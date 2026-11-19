@@ -4,6 +4,7 @@ return [
     'plugins' => [
         'Analytics',
         'SpamDetector',
+        'ValuersManagement',
         'Zammad' => [
             'namespace' => 'Zammad',
             'config' => [

@@ -19,3 +19,6 @@
 [submodule "plugins/AdminLoginAsUser"]
 	path = plugins/AdminLoginAsUser
 	url = https://github.com/mapasculturais/plugin-AdminLoginAsUser.git
+[submodule "plugins/ValuersManagement"]
+	path = plugins/ValuersManagement
+	url = https://github.com/mapasculturais/plugin-ValuersManagement.git
