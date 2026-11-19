@@ -5,6 +5,7 @@ return [
         'Analytics',
         'SpamDetector',
         'ValuersManagement',
+        'ConectaEnte',
         'Zammad' => [
             'namespace' => 'Zammad',
             'config' => [
